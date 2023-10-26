@@ -1,0 +1,165 @@
+
+<kml
+	xmlns="http://earth.google.com/kml/2.0">
+	<Document>
+		<Style id="z1">
+			<IconStyle>
+				<Icon>
+					
+<href>http://www.google.com/intl/en_us/mapfiles/ms/micons/blue-dot.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+		<Folder name='Waterworks'>
+			<Placemark>
+				<name>leavy_f</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28277777777778,34.0213889</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Carolyn_f</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28333333333333,34.0205556</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Alumni_f</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28305555555555,34.0197222</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Doheny_f</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28527777777778,34.0205556</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>traveller_f</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28527777777778,34.0202778</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Viterbi_f</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28916666666666,34.0205556</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder name='Statues'>
+			<Placemark>
+				<name>Alumni_s</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28305555555555,34.0194444</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>traveller_s</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28527777777778,34.0202778</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>trojan_s</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28555555555555,34.0205556</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>tirebitter_s</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.2863888888889,34.0188889</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>armstrong_s</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28861111111111,34.0202778</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>john_s</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					
+<coordinates>-118.28777777777778,34.0230556</coordinates>
+				</Point>
+			</Placemark>
+			</Folder>
+			<Placemark>
+				<name>home</name>
+				<styleUrl>#z1</styleUrl>
+				<Point>
+					<coordinates> 
+-118.2866822,34.0327725</coordinates>
+				</Point>
+			 
+			</Placemark>
+		<Placemark>
+			<Polygon>
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+ 				-118.2863888888889,34.0188889 -118.28916666666666,34.0205556 -118.2866822,34.0327725 -118.28277777777778,34.0213889 -118.28305555555555,34.0194444 -118.2863888888889,34.0188889 
+            </coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon>
+		</Placemark>
+		<Placemark>
+		   <LineString>
+			<coordinates>
+				-118.2866822,34.0327725 -118.28777777777778,34.0230556
+		        </coordinates>
+		   </LineString>
+
+		</Placemark>
+		<Placemark>
+		   <LineString>
+			<coordinates>
+				-118.2866822,34.0327725 -118.28277777777778,34.0213889
+		        </coordinates>
+		   </LineString>
+		</Placemark>
+		<Placemark>
+		   <LineString>
+			<coordinates>
+				-118.2866822,34.0327725 -118.28555555555555,34.0205556
+		        </coordinates>
+		   </LineString>
+		</Placemark>
+		<Placemark>
+		   <LineString>
+			<coordinates>
+				-118.2866822,34.0327725 -118.28527777777778,34.0205556
+		        </coordinates>
+		   </LineString>
+		</Placemark>
+		
+	</Document>
+</kml>
+
